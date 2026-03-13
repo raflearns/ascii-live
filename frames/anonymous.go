@@ -1,6 +1,6 @@
 package frames
 
-// Anonymous is the exported variable used in frames.go
+
 var Anonymous = DefaultFrameType(anonymousFrames)
 
 var anonymousFrames = []string{
